@@ -4,6 +4,11 @@
 
 using namespace std;
 
+/*
+    Hacker Rank Problem: Sherlock and Array
+    Problem Spec: hackerrank.com/challenges/sherlock-and-array
+*/
+
 int main() {
 
     // take in number of test cases, error check
